@@ -143,7 +143,7 @@ Now the creation of the models is pretty straight forward.
 
 When reviewing the models against the points representing the individual segments, we see a relatively good fit for all aproaches.
 
-![pacepro](./pacepro.png)
+![models](./models.png)
 
 For now, we do not commit to one particular model, but create a wrapper function, that allows the selection of a model at runtime. For checking, a manual linear model has been hard-coded as well.
 
